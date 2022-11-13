@@ -1,0 +1,63 @@
+.boxContent {
+    background-image: url(./img/libros.jpg);
+}
+
+.div {
+    background-color: rgba(255, 192, 203, 0.76);
+    text-align: center;
+    font-family: cursive;
+    font-size: medium;
+    border-style: inset;
+    border-radius: 5px;
+    border-color: bisque;
+}
+
+.button {
+    margin-bottom: 10px;
+    background-color: rgb(255, 244, 231);
+    border-radius: 5px;
+    border-color: pink;
+    height: auto;
+    width: auto;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.caixa {
+    margin: auto;
+    background-color: rgba(255, 228, 196, 0.808);
+    border-style: inset;
+    border-radius: 10px;
+    border-color: pink;
+    min-width: 220px;
+    height: max-content;
+    width: max-content;
+    font-size: larger;
+    padding: 12px;
+}
+
+.header {
+    margin-bottom: 40px;
+}
+
+.autor {
+    text-align: right;
+}
+
+.texto {
+    word-wrap: break-word;
+    text-align: justify;
+    max-width: 500px;
+}
+
+.corpse {
+    background-color: rgba(255, 192, 203, 0.76);
+    background-image: none;
+}
+
+.box {
+    background-image: url(./img/libros.jpg);
+    margin-bottom: 40px;
+}
